@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AADAuthority">https://login.microsoftonline.com/common/oauth2/v2.0</string>
+    <string name="AADClientId">343b92fb-5b6f-4c01-ba7e-3126da491cb7</string>
+    <string name="AADResourceId">https://outlook.office.com/</string>
+    <string name="AADRedirectUrl">urn:ietf:wg:oauth:2.0:oob</string>
+</resources>
