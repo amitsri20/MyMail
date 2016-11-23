@@ -1,4 +1,5 @@
 # MyMail
 Outlook Mail fetch application
 
-https://github.com/amitsri20/MyMail/blob/master/ScreenShots/Screenshot_1479937532.png
+![Alt text](/ScreenShots/output_azdBZb.gif?raw=true "Screenshots")
+ScreenShots/output_azdBZb.gif
