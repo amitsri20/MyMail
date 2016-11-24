@@ -9,4 +9,5 @@
     <dimen name="list_item_height">80dp</dimen>
     <dimen name="ic_clear_margin">16dp</dimen>
     <dimen name="activity_horizontal_margin_left">8dp</dimen>
+    <dimen name="activity_horizontal_margin_custom4">4dp</dimen>
 </resources>
